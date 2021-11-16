@@ -17,12 +17,15 @@ nav{
     align-items: center;
 }
 .nav-logo{
-    background-image: url("./assets/logo.png");
-    height: 50px;
+    /* background-image: url("/assets/logo.png"); */
+    /* height: 50px; */
     width: 100px;
-    background-repeat: no-repeat;
-    background-size: contain;
+    /* background-repeat: no-repeat;
+    background-size: contain; */
 
+}
+.nav-img{
+    width: 100%;
 }
 .nav-btn {
     background-image: linear-gradient( to right, #ff512f 0%, #ff512f 51%, #dd2476 100% );
