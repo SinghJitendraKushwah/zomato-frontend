@@ -17,7 +17,7 @@ nav{
     align-items: center;
 }
 .nav-logo{
-    background-image: url("/assets/logo.png");
+    background-image: url("./assets/logo.png");
     height: 50px;
     width: 100px;
     background-repeat: no-repeat;
